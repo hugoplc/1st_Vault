@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "643442863121d911",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fd1d6b910a0e440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a9faacc19b0579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Must have plugins  rObsidianMD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Must have plugins  rObsidianMD"
+            }
+          },
+          {
+            "id": "eb5ebb65b6405df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Markdown Reference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Markdown Reference"
+            }
+          },
+          {
+            "id": "2c1dcf516e46c02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Markdown Reference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Markdown Reference"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a989508e41f23eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0be16806b8d4391e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6057db181e490aa8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82937f1f6ea5f4cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2fea460948b29ae5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e54fdf0096d49cfb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd1018fa082d2132",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1992394f0226505",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e83b041b95f4e8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Markdown"
+            }
+          },
+          {
+            "id": "1ea738aaf04e39ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Markdown"
+            }
+          },
+          {
+            "id": "9dfd1703970cb644",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "24c37aee346c0e23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Markdown.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Markdown"
+            }
+          },
+          {
+            "id": "37312582adbe16e5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "992dddea0362cd53",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "5ffce3c15bbb66e3",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2c1dcf516e46c02d",
+  "lastOpenFiles": [
+    "README.md",
+    "Watchtower.md",
+    "remote-blog/Docker Commands.md",
+    "New folder",
+    "Gotify.md",
+    "Clippings/Markdown Reference.md",
+    "Pasted image 20241212120003.png",
+    "Pasted image 20241212115733.png",
+    "Untitled.canvas",
+    "Setup homepage for homelab.md",
+    "Clippings/自動升級更新執行中的 Docker 容器解決方案 - watchtower.md",
+    "Docker Commands.md",
+    "Portainer Agent.md",
+    "Clippings/Must have plugins  rObsidianMD.md",
+    "files/Markdown_Cheat_Sheet.pdf",
+    "Markdown CheatSheet.md",
+    "Setup NextCloud using Portainer.md",
+    "Markdown.md",
+    "Pasted image 20241129161247.png",
+    "remote-blog",
+    "Untitled 1.canvas",
+    "2024-11-28.md",
+    "Untitled 2.canvas",
+    "{{coverUrl}}.md",
+    "Test.md",
+    "obsidian-templates/css/litnote-colors.css",
+    "obsidian-templates/zettel.md",
+    "obsidian-templates/zotero.md",
+    "obsidian-templates/youtube.md",
+    "obsidian-templates/workbench.md",
+    "obsidian-templates/wikilink.md",
+    "obsidian-templates/README.md",
+    "obsidian-templates/open-daily.md",
+    "obsidian-templates/movie.md",
+    "obsidian-templates/meeting.md",
+    "obsidian-templates/LICENSE",
+    "obsidian-templates/lecture.md",
+    "obsidian-templates/css",
+    "obsidian-templates",
+    "Clippings",
+    "files/proxmox-home-lab-guide-2024.pdf",
+    "files"
+  ]
+}

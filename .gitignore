@@ -1,0 +1,9 @@
+# Ignore vault stats
+.vault-stats
+
+# Ignore Smart Connections folder
+.smart-connections/
+.smart-connections
+
+# Ignore Syncthing versioned files
+.stversions
