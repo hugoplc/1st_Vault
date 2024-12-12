@@ -1,40 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Markdown Reference",
-      "path": "Clippings/Markdown Reference.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Watchtower",
-      "path": "Watchtower.md"
-    },
-    {
-      "basename": "Gotify",
-      "path": "Gotify.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Setup homepage for homelab",
-      "path": "Setup homepage for homelab.md"
-    },
-    {
-      "basename": "Docker Commands",
-      "path": "Docker Commands.md"
-    },
-    {
-      "basename": "Portainer Agent",
-      "path": "Portainer Agent.md"
+      "basename": "Welcome to my 1st Vault",
+      "path": "Welcome to my 1st Vault.md"
     },
     {
       "basename": "Must have plugins  rObsidianMD",
       "path": "Clippings/Must have plugins  rObsidianMD.md"
+    },
+    {
+      "basename": "Markdown Reference",
+      "path": "Clippings/Markdown Reference.md"
     },
     {
       "basename": "Markdown_Cheat_Sheet",
@@ -45,8 +21,36 @@
       "path": "Markdown CheatSheet.md"
     },
     {
+      "basename": "Proxmox Home Lab",
+      "path": "Proxmox Home Lab.md"
+    },
+    {
+      "basename": "Docker Commands",
+      "path": "Docker Commands.md"
+    },
+    {
       "basename": "Setup NextCloud using Portainer",
       "path": "Setup NextCloud using Portainer.md"
+    },
+    {
+      "basename": "Setup homepage for homelab",
+      "path": "Setup homepage for homelab.md"
+    },
+    {
+      "basename": "Portainer Agent",
+      "path": "Portainer Agent.md"
+    },
+    {
+      "basename": "Gotify",
+      "path": "Gotify.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Watchtower",
+      "path": "Watchtower.md"
     },
     {
       "basename": "Markdown",

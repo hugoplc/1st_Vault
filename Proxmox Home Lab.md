@@ -1,7 +1,15 @@
 ==Structure
 
+[Homepage Dashboard](http://192.168.50.241:3000)
+
 * [Proxhost1](https://hugolab.asuscomm.cn:8006/)
+	* [[Setup homepage for homelab]]
 	* [Portainer](https://hugolab.asuscomm.cn:9443/)
+	* [[Watchtower]]
+	* [[Gotify]]
+	* [[Portainer Agent]]
+	* [[Setup NextCloud using Portainer]]
+* 
 
 ==Reference==
 

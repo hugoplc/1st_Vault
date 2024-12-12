@@ -7,3 +7,5 @@
 
 # Ignore Syncthing versioned files
 .stversions
+.remote-blog
+.obsidian-templates
